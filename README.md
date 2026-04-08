@@ -7,7 +7,7 @@ Jogo desenvolvido em Processing que combina:
 ---
 
 ## 🚀 Demonstração
-<img src="print.png" width="600">
+<img width="896" height="626" alt="finishgame" src="https://github.com/user-attachments/assets/cb1d2e68-c7de-4d9e-bc05-5f85e4649b61" />
 
 ---
 
